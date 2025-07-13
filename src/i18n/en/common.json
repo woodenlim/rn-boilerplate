@@ -1,0 +1,19 @@
+{
+  "app_name": "ChatX",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "no": "No",
+  "back": "Back",
+  "next": "Next",
+  "submit": "Submit",
+  "loading": "Loading...",
+  "error_generic": "Something went wrong. Please try again.",
+  "network_error": "Network error. Please check your internet connection.",
+  "retry": "Retry",
+  "success": "Success",
+  "logout": "Logout",
+  "language": "Language",
+  "dark_mode": "Dark Mode",
+  "light_mode": "Light Mode"
+}

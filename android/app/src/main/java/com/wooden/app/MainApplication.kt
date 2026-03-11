@@ -1,4 +1,4 @@
-package com.adminpchat_app
+package com.wooden.app
 
 import android.app.Application
 import com.facebook.react.PackageList
